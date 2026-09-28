@@ -2,7 +2,6 @@
 
 Taskly is a single-page React app for managing daily to-dos. Tasks are organised by category, filtered by status, and saved in the browser so they survive a refresh.
 
-**Live demo:** _add your Vercel/Netlify link here after deploying_
 
 ## Features
 
